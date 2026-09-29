@@ -9,7 +9,7 @@
   Full Stack Devlopar
 </h1>
 
----
+-
 
 ## 📁 Featured projects
 
