@@ -25,9 +25,9 @@
 * 🛠️ I build responsive websites and web apps.
 * 📍 Based in India.
 
----
+---------------------
 
 ## 📊 GitHub stats
-🛠️ Building the future, one commit at a time ,
+🛠️ Building the future, one commit at a time 
 
 
