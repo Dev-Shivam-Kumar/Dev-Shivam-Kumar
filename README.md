@@ -28,6 +28,6 @@
 ---
 
 ## 📊 GitHub stats
-🛠️ Building the future, one commit at a time , Engineer is the best thing for konwe every this in our life
+🛠️ Building the future, one commit at a time ,
 
 
